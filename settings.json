@@ -1,0 +1,13 @@
+{
+    "sens": 0.323,
+    "COM": "COM5",
+    "DISPLAY_SCALE": [1920, 1080],
+    "fovX": 300,
+    "fovY": 100,
+    "Flick_delay": 0.25,
+    "TriggerbotKey": "7",
+    "AimbotKey":"`",
+    "AimassistKey":"6",
+    "FlickKey":"5",
+    "target":"head" 
+  }
