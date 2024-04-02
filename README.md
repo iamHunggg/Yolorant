@@ -1,7 +1,7 @@
 
 # Yolorant
 
-A neural network aim assist that uses real-time object detection accelerated with CUDA on Nvidia GPUs (detected)
+A neural network aim assist that uses real-time object detection accelerated with CUDA on Nvidia GPUs and Arduino (detected)
 
 # About
 - Yolorant can be used with all types of FPS games by change the weights file (bestnew.pt or bestnew.engine).
