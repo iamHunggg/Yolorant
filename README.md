@@ -32,6 +32,9 @@ pip install -r requirements.txt
 # Usage
 - Launch the game and run main.py.
 
-
+# Preview
+- https://www.youtube.com/watch?v=KGw_yPY1MdY
+- https://www.youtube.com/watch?v=xrXGrTPqDdY
+  (I'm not too good at this game since I don't play it much, so my skills are pretty trash :) )
 # Issues
 - The process of fetching data and transmitting it to Arduino, coupled with mouse movement methodology (String read), incurs sluggishness, thereby harboring several limitations.
